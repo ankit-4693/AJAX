@@ -1,0 +1,79 @@
+
+<html>
+<head>
+<link href='/home/qainfotech/Downloads/homecs.css' rel='stylesheet' type='text/css'>
+
+<title>Homepage</title>
+
+</head>
+ 
+<body>
+
+<div class="header">
+  <a href="#default" class="logo"><img src="/home/qainfotech/Downloads/logox.jpg" alt="John" width="400" height="100"></a>
+  <div class="header-right">
+    <a class="active" href="#home">Home</a>
+    <a href="#contact">Contact</a>
+    <a href="/home/qainfotech/Downloads/loginx.html">Logout</a>
+  </div>
+</div> 
+<h2 style="text-align:center">User Profile Card</h2>
+
+<div class="card">
+  <a href="#default" class="logo"><img src="/home/qainfotech/Downloads/indexx.jpg" width="100%" height="200"></a>
+  <h1>Ankit Mittal</h1>
+  <p class="title">CEO & Founder</p>
+  <p>Harvard University</p>
+  <div style="margin: 24px 0;">
+    <a href="#"><i class="fa fa-dribbble"></i></a> 
+    <a href="#"><i class="fa fa-twitter"></i></a>  
+    <a href="#"><i class="fa fa-linkedin"></i></a>  
+    <a href="#"><i class="fa fa-facebook"></i></a> 
+  </div>
+  <p><button>Contact</button></p>
+</div>
+<div class="card">
+  <a href="#default" class="logo"><img src="/home/qainfotech/Downloads/indexx.jpg" width="100%" height="200"></a>
+  <h1>Ankit Mittal</h1>
+  <p class="title">CEO & Founder</p>
+  <p>Harvard University</p>
+  <div style="margin: 24px 0;">
+    <a href="#"><i class="fa fa-dribbble"></i></a> 
+    <a href="#"><i class="fa fa-twitter"></i></a>  
+    <a href="#"><i class="fa fa-linkedin"></i></a>  
+    <a href="#"><i class="fa fa-facebook"></i></a> 
+  </div>
+  <p><button>Contact</button></p>
+</div>
+<div class="card">
+  <a href="#default" class="logo"><img src="/home/qainfotech/Downloads/indexx.jpg" width="100%" height="200"></a>
+  <h1>Ankit Mittal</h1>
+  <p class="title">CEO & Founder</p>
+  <p>Harvard University</p>
+  <div style="margin: 24px 0;">
+    <a href="#"><i class="fa fa-dribbble"></i></a> 
+    <a href="#"><i class="fa fa-twitter"></i></a>  
+    <a href="#"><i class="fa fa-linkedin"></i></a>  
+    <a href="#"><i class="fa fa-facebook"></i></a> 
+  </div>
+  <p><button>Contact</button></p>
+</div>
+<div class="card">
+  <a href="#default" class="logo"><img src="/home/qainfotech/Downloads/indexx.jpg" width="100%" height="200"></a>
+  <h1>Ankit Mittal</h1>
+  <p class="title">CEO & Founder</p>
+  <p>Harvard University</p>
+  <div style="margin: 24px 0;">
+    <a href="#"><i class="fa fa-dribbble"></i></a> 
+    <a href="#"><i class="fa fa-twitter"></i></a>  
+    <a href="#"><i class="fa fa-linkedin"></i></a>  
+    <a href="#"><i class="fa fa-facebook"></i></a> 
+  </div>
+  <p><button>Contact</button></p>
+</div>
+<div class="footer">
+
+</div>
+
+</body>
+</html>

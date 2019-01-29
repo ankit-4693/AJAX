@@ -1,0 +1,147 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,400i,700");
+html {
+  height: 100%;
+}
+
+body {
+  font-family: Roboto, sans-serif;
+  height: 100%;
+  margin: 0px;
+  display: flex;
+  box-sizing: border-box;
+}
+
+.column {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+#nav {
+  background-color: black;
+  width: 50px;
+}
+
+#right {
+  display: flex;
+  flex-wrap: wrap;
+  background-image: url("https://images.pexels.com/photos/1308624/pexels-photo-1308624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  width: 100%;
+  overflow-y: auto;
+}
+
+ul {
+  list-style: none;
+  padding-left: 4px;
+}
+
+li {
+  padding-bottom: 6px;
+}
+
+.head {
+  display: flex;
+  padding: 2rem;
+  justify-items: center;
+  background-color: rgba(0, 0, 0, 0);
+  align-items: center;
+  height: auto;
+  margin: 3rem;
+  width: 100%;
+}
+.head .head_div {
+  width: 100%;
+}
+
+.gallery {
+  display: flex;
+  flex-flow: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  background-color: white;
+  padding: 3rem;
+}
+.gallery .gallery_content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  margin: 3px;
+}
+
+.card_info {
+  padding: 2px 16px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.bottom {
+  display: flex;
+}
+.bottom .aboutme {
+  padding: 3rem;
+  background-color: #ECEFF1;
+  width: 50%;
+  font-family: Roboto, sans-serif;
+}
+.bottom .connect {
+  padding: 3rem;
+  background-color: #FAFAFA;
+  width: 50%;
+}
+
+h1 {
+  font-size: 2em;
+  color: white;
+  text-align: center;
+  font-family: Roboto, sans-serif;
+}
+
+h2 {
+  text-align: center;
+  width: 100%;
+}
+
+.head_para {
+  font-size: 1.5em;
+  color: white;
+  text-align: center;
+}
+
+.btn-continue {
+  margin: auto;
+  display: block;
+  background-color: rgba(0, 0, 0, 0);
+  border: 2px solid grey;
+  font-size: 1rem;
+  padding: 20px;
+  color: white;
+  border-radius: 10px;
+}
+
+.gallery-btn, .connect-btn {
+  margin-top: 0em;
+  margin-bottom: 0em;
+  margin-right: 6em;
+  margin-left: 6em;
+  background-color: #19b5fe;
+  border: 2px solid #19b5fe;
+  font-size: 1rem;
+  padding: 20px;
+  color: white;
+  border-radius: 10px;
+  margin: 2rem;
+}
+
+label, input {
+  margin: 5px;
+  padding: 10px;
+  width: 100%;
+}

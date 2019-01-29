@@ -1,0 +1,31 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  background:#A9E6F9;
+  
+  width:100%; 
+  text-align:center;
+  margin: 20px 0px 20px 0px;   
+}
+h3{
+  font-family: Calibri; 
+  font-size: 25pt;         
+  font-style: normal; 
+  font-weight: bold; 
+  color: #2980b9;
+  text-align: center; 
+  text-decoration: italic
+}
+
+table{
+  font-family: Calibri; 
+  color:white; 
+  font-size: 11pt; 
+  font-style: normal;
+  font-weight: bold;
+  text-align:; 
+  background-color: #3498db; 
+  border-radius:6px; 
+ 
+  border: #2980b9 4px solid
+}
+
